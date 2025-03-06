@@ -1,5 +1,7 @@
 # Welcome to LumeRead project
 
+Project live at https://vijayadithyabk.github.io/lumeread/
+
 ## Project info
 
 A locally runnable immersive reader. All you have to do is copy your text, paste it and read with ease. How cool is that?
